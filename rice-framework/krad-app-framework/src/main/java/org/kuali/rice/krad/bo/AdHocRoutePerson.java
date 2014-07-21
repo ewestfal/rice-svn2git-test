@@ -32,7 +32,7 @@ import org.kuali.rice.kim.api.services.KimApiServiceLocator;
 @Table(name = "KRNS_ADHOC_RTE_ACTN_RECIP_T")
 public class AdHocRoutePerson extends AdHocRouteRecipient {
     private static final long serialVersionUID = 1L;
-
+Reviewer should really not let this crap through as it damages the  project build. Please scowl the developer until he fixes it.
     @Transient
     private transient Person person;
 
