@@ -24,6 +24,7 @@ Contents
 Preface
 Licensing and Licenses
 References and Links
+Git
 
 
 Preface
@@ -48,4 +49,6 @@ References and Links
 Rice documentation: http://rice.kuali.org/docs 
 Rice distribution download:  http://rice.kuali.org/download
 
-
+Git
+----
+Git is cool git is great. Let's hope everything is fine.
